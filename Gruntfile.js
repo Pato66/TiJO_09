@@ -28,7 +28,7 @@
                     reporters: {
                         html: {
                             dir: 'target/mutation-test',
-                            successThreshold: 70
+                            successThreshold: 100
                         },
                         text: {
                             dir: 'target/mutation-test'
@@ -50,7 +50,7 @@
                         logLevel: 'DEBUG',
                         reporters: {
                             text: {
-                                file: 'karma.txt'
+                                file: 'raport.txt'
                             }
                         }
                     }
