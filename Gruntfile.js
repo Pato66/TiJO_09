@@ -50,7 +50,7 @@
                         logLevel: 'DEBUG',
                         reporters: {
                             text: {
-                                file: 'raport.txt'
+                                file: 'raport2.txt'
                             }
                         }
                     }
